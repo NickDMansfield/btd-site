@@ -1,0 +1,10 @@
+
+    .tabMenuButton {
+        border: 1px black;
+        border-style: solid;
+        display: flex;
+        flex: 1;
+    }
+    .tabMenuButton:hover {
+        background-color: coral;
+    }
